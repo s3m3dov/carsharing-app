@@ -1,0 +1,55 @@
+# === OS Files ===
+.DS_Store
+
+# === IDE Files ===
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# === Build System Files ===
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+**/build/
+
+# === Kotlin/Java Files ===
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# === Archives and Packages ===
+*.zip
+*.tar.gz
+*.rar
+
+# === Logs and Reports ===
+*.log
+hs_err_pid*
+replay_pid*
+
+# === BlueJ Files ===
+*.ctxt
+
+# === Mobile Tools for Java (J2ME) ===
+.mtj.tmp/
+
+# === Xcode/Apple Files ===
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+xcuserdata/
+
+# === Kotlin Specific ===
+.kotlin/
+
+# === Miscellaneous ===
+# (add any other ignores below)
+
