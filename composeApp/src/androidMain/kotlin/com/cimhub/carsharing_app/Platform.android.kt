@@ -1,4 +1,4 @@
-package com.example.carsharing_app
+package com.cimhub.carsharing_app
 
 import android.os.Build
 

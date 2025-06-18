@@ -1,4 +1,4 @@
-package com.example.carsharing_app
+package com.cimhub.carsharing_app
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image

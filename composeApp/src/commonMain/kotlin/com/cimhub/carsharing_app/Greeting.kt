@@ -1,4 +1,4 @@
-package com.example.carsharing_app
+package com.cimhub.carsharing_app
 
 class Greeting {
     private val platform = getPlatform()
